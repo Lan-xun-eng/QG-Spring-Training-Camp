@@ -1,0 +1,10 @@
+# 忽略工作区文件（打开的标签页、布局等）
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# 如果不想同步整个 .obsidian 文件夹，可以取消下一行的注释
+# .obsidian/
+
+# 系统文件
+.DS_Store
+Thumbs.db
