@@ -11,10 +11,14 @@
             "id": "ade07ebf58164e65",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Python数据分析+json库/Matplotlib.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "Matplotlib"
             }
           }
         ]
@@ -177,5 +181,11 @@
     }
   },
   "active": "ade07ebf58164e65",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Python数据分析+json库/Pandas.md",
+    "Python数据分析+json库/numpy.md",
+    "Python数据分析+json库/Matplotlib.md",
+    "Python基础",
+    "Python基础/未命名.md"
+  ]
 }
