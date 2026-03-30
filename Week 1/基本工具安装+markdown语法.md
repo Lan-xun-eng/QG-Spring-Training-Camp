@@ -1,3 +1,4 @@
+#计算机
 # anaconda，pycharm，jupyter安装
 
 > anaconda，pycharm，jupyter这三个工具我早已安装，并进行了一定程度的运用
